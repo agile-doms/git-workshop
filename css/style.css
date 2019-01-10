@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Russo One', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.bg-pink {
+    background-color: #b13797;
+}
+
+.card .list-group-item {
+    padding: 0.18rem 0rem;
+}
+
+.card strong {
+    color: #d39e00;
+}
+
+.jumbotron {
+    background-color: #ffc107;
+}
+
+.jumbotron h1 {
+    color: #FFFFFF;
+}
+
+#sidebar .list-group-item {
+    background-color: #e8e8e8;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+#sidebar a:link,
+#sidebar a:visited {
+    color: #d39e00;
+}
+
+#sidebar a:hover {
+    color: #FFFFFF;
+    background-color: #d39e00;
+}
